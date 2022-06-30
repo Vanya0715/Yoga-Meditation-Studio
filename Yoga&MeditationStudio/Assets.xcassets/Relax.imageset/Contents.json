@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "the-girl-practices-yoga-in-the-lotus-position.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
